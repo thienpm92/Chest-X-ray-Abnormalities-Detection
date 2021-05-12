@@ -1,3 +1,0 @@
-Requirement already satisfied: torch in /home/vipl/anaconda3/envs/Eric/lib/python3.8/site-packages (1.6.0+cu101)
-Requirement already satisfied: future in /home/vipl/anaconda3/envs/Eric/lib/python3.8/site-packages (from torch) (0.18.2)
-Requirement already satisfied: numpy in /home/vipl/anaconda3/envs/Eric/lib/python3.8/site-packages (from torch) (1.19.2)
